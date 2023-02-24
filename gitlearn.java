@@ -8,6 +8,8 @@ public class Test()
           System.out.println("First change done at local repo");
 
           System.out.println("first changes at remote repo after commit change in local repo");
+           
+          //second changes done in master 
 
           //1 new changes added in local Development
 
