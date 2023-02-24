@@ -9,11 +9,13 @@ public class Test()
 
           System.out.println("first changes at remote repo after commit change in local repo");
 
-          // new changes added in local Development
+          //1 new changes added in local Development
 
-          // new changes added in master
+          //2 new changes added in master
 
-          // new changes added in Development
+          //3 new changes added in Development
+
+          //4 new changes added in Master
       }
 
 }
